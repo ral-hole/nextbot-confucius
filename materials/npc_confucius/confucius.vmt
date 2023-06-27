@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_confucius/confucius"
+	"$alphatest" 1
+}
